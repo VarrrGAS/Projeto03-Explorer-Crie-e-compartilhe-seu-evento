@@ -39,5 +39,5 @@ https://www.figma.com/file/awKo2fqYRJgD3QhK0AQsfg/Explorer-Stage-03-Projeto-01-(
 
 # 4. Related Links:
 
-####Figma:
+#### Figma:
 https://www.figma.com/file/awKo2fqYRJgD3QhK0AQsfg/Explorer-Stage-03-Projeto-01-(Copy)?node-id=0-1&t=kknXq6e6vdvGwfNR-0
